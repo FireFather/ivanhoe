@@ -26,7 +26,7 @@
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_24.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_25.bmp)
 
-Here is source code for the original revolutionary ground-breaking chess engine from 2011.
+Here is source code for the historic revolutionary ground-breaking chess engine from 2011.
 
 Includes Visual studio project files...
 
