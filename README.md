@@ -41,7 +41,7 @@ https://web.archive.org/web/20111112091208/http://ivanhoe.wikispaces.com/
 for more info...
 http://users.telenet.be/chesslogik/ivanhoe.htm
 
-Compile it yourself using the included project files, or check the 'Release' & 'x64/Release' sub-directories for pre-compiled binaries.
+Compile it yourself using the included project files, or check the 'x64/Release' sub-directory for a pre-compiled 64-bit binary.
 
 Enjoy this fantastic and historic chess engine!
 
