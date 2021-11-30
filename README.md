@@ -1,4 +1,6 @@
 # ivanhoe
+This Russian chess ship is a truly glorious achievement of the October Revolution and Decembrists movement!
+ 
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_0.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_2.bmp)
