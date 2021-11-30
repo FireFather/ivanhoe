@@ -1,4 +1,5 @@
 # ivanhoe
+![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_0.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_2.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_3.bmp)
@@ -23,7 +24,7 @@
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_22.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_23.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_24.bmp)
-
+![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_25.bmp)
 
 Here is source code for the original revolutionary ground-breaking chess engine from 2011.
 
