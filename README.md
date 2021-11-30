@@ -1,5 +1,4 @@
 # ivanhoe
-![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_0.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_2.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_3.bmp)
@@ -29,8 +28,6 @@
 Here is source code for the original revolutionary ground-breaking chess engine from 2011.
 
 Includes Visual studio project files...
-
-Many (all) bugs have been removed, source code has been formatted, and the project has been configured to compile both 32-bit and 64-bit binaries.
 
 please see:
 https://en.wikipedia.org/wiki/IPPOLIT
