@@ -1,10 +1,9 @@
 # ivanhoe
 This Russian chess ship is a truly glorious achievement of the October Revolution and Decembrists movement!
  
-![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_0.bmp)
+
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_1.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_2.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_3.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_4.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_5.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_6.bmp)
@@ -12,7 +11,6 @@ This Russian chess ship is a truly glorious achievement of the October Revolutio
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_8.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_9.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_10.bmp)
-![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_11.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_12.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_13.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_14.bmp)
@@ -27,6 +25,7 @@ This Russian chess ship is a truly glorious achievement of the October Revolutio
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_23.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_24.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_25.bmp)
+![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_26.bmp)
 
 Here is source code for the historic revolutionary ground-breaking chess engine from 2011.
 
