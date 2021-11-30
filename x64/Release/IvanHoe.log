@@ -1,0 +1,55 @@
+﻿  50move.c
+  all_node.c
+  arrays.c
+  benchmark.c
+  control.c
+  cut_node.c
+  evaluation.c
+  eval_explain.c
+  exclude_node.c
+  input.c
+  low_depth.c
+  magic_mult.c
+  main.c
+  make_move.c
+  material_value.c
+  matval_explain.c
+  mem_handler.c
+  mobility.c
+  MonteCarlo.c
+  move_gen.c
+  next_move.c
+  ok_move.c
+  pawn_eval.c
+  pawn_eval_explain.c
+  perft.c
+  pv_node.c
+  qsearch.c
+  qsearch_pv.c
+  Robbo_glue_new.c
+  Robbo_mossa.c
+  RootNodeMonteCarlo.c
+  root_analysis.c
+  root_multipv.c
+  root_node.c
+  search.c
+  SEE.c
+  set_position.c
+  signals.c
+  slab_memory.c
+  SMP.c
+  SMP_init.c
+  SMP_search.c
+  static.c
+  TopNodeMonteCarlo.c
+  top_analysis.c
+  top_node.c
+  unmake_move.c
+  utility.c
+  Zobrist_init.c
+  Zobrist_use.c
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 288 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Ivanhoe.vcxproj -> C:\engine_dev\IvanHoe\x64\Release\Ivanhoe.exe
