@@ -1,5 +1,5 @@
 # ivanhoe
-This Russian chess ship is a truly glorious achievement of the October Revolution and Decembrists movement!
+**This Russian chess ship is a truly glorious achievement of the October Revolution and Decembrists movement!**
  
 
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_1.bmp)
@@ -27,7 +27,7 @@ This Russian chess ship is a truly glorious achievement of the October Revolutio
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_25.bmp)
 ![alt tag](https://raw.githubusercontent.com/FireFather/ivanhoe/master/logos/ivanhoe_26.bmp)
 
-Here is source code for the historic revolutionary ground-breaking chess engine from 2011.
+**Here is source code for the historic revolutionary ground-breaking chess engine from 2011**
 
 Includes Visual studio project files...
 
